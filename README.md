@@ -22,10 +22,10 @@ A secure, multi-user application built with **Node.js**, **Express**, **MongoDB*
 
 - **Languages**: JavaScript, HTML, CSS  
 - **Frameworks & Libraries**: Node.js, Express, Bootstrap  
-- **Databases**: MongoDB (Mongoose)  , SQL
-- **Testing Tools**: Postman, Selenium, BroweserStack,Katalon Studio,Manual and Automated Testing Techniques  
+- **Databases**: MongoDB (Mongoose), SQL  
+- **Testing Tools**: Postman, Selenium, BrowserStack, Katalon Studio, Manual and Automated Testing Techniques  
 - **Version Control**: Git, GitHub  
-- **Other Tools**: EJS, Passport.js, MVC Architecture, Agile Methodologies,Bamboo,Jenkins,JIRA
+- **Other Tools**: EJS, Passport.js, MVC Architecture, Agile Methodologies, Bamboo, Jenkins, JIRA
 
 ---
 
@@ -35,6 +35,7 @@ A secure, multi-user application built with **Node.js**, **Express**, **MongoDB*
 - RESTful API best practices  
 - Automated testing (e.g., Jest, Cypress)  
 - CI/CD pipelines with GitHub Actions
+
 ---
 
 ## 🧪 QA Mindset in Development
@@ -57,9 +58,12 @@ I apply my QA background to development by:
 
 ## 🤝 Resume
 
+📄 [View My Resume](https://github.com/harpreetdhindsa/harpreetdhindsa/raw/main/HarpreetDhindsa.pdf)
+
+---
+
 ## 🤝 Let's Connect
 
 - 📧 Email: erharpreet08@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/harpreet-dhindsa8)  
 - 🌐 Portfolio Website *(coming soon)*
-
