@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Harpreet Dhindsa
 
-💼 Manual QA Tester | 🌐 Aspiring Web Developer | 🎓 B.Tech (CSE) | Open-minded, Curious, Always Learning
+💼 Software QA Analyst | 🌐 Aspiring Web Developer | 🎓 B.Tech (CSE) | Open-minded, Curious, Always Learning
 
-As a Manual QA Tester transitioning into web development, I combine a detail-oriented mindset with hands-on coding practice to create software that’s both reliable and user-friendly.
+As a Software QA Analyst transitioning into web development, I combine a detail-oriented mindset with hands-on coding practice to create software that’s both reliable and user-friendly.
 
 ---
 
@@ -23,9 +23,9 @@ A secure, multi-user application built with **Node.js**, **Express**, **MongoDB*
 - **Languages**: JavaScript, HTML, CSS  
 - **Frameworks & Libraries**: Node.js, Express, Bootstrap  
 - **Databases**: MongoDB (Mongoose)  , SQL
-- **Testing Tools**: Postman, Selenium, Manual and Automated Testing Techniques  
+- **Testing Tools**: Postman, Selenium, BroweserStack,Katalon Studio,Manual and Automated Testing Techniques  
 - **Version Control**: Git, GitHub  
-- **Other Tools**: EJS, Passport.js, MVC Architecture, Agile Methodologies
+- **Other Tools**: EJS, Passport.js, MVC Architecture, Agile Methodologies,Bamboo,Jenkins,JIRA
 
 ---
 
@@ -54,6 +54,8 @@ I apply my QA background to development by:
 - **Degree of Separation** – A tool to calculate connection paths between two users in a social network 
 
 ---
+
+## 🤝 Resume
 
 ## 🤝 Let's Connect
 
